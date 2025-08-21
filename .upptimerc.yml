@@ -43,7 +43,7 @@ i18n:
   ms: ms
   loading: Cargando
   navGitHub: GitHub
-  footer: Esta página es [código abierto]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: Powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Número de solicitudes excedido.
   rateLimitExceededIntro: Has superado el número de solicitudes que puedes realizar en una hora, por lo que tendrás que esperar antes de volver a acceder a este sitio web. Como alternativa, puedes añadir un token de acceso personal de GitHub para seguir utilizando este sitio web.
   rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?

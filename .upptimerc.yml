@@ -7,6 +7,8 @@ sites:
     url: https://app.fluxbound.es
   - name: API
     url: https://api.fluxbound.es
+    expectedStatusCodes:
+      - 404
 
 status-website:
   cname: status.fluxbound.es

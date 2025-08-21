@@ -19,3 +19,7 @@ status-website:
   navbar:
     - title: Status
       href: /
+
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos

@@ -3,12 +3,15 @@ repo: fluxbound-status-page
 
 sites:
   - name: Web
+    showAverageResponseTime: false
     url: https://app.fluxbound.es
   - name: API
+    showAverageResponseTime: false
     url: https://api.fluxbound.es
     expectedStatusCodes:
       - 404
   - name: VPN
+    showAverageResponseTime: false
     check: "tcp-ping"
     url: $VPN_IP
     port: $VPN_PORT

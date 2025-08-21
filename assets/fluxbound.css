@@ -2,7 +2,14 @@
   --body-background-color: #08050C;
   --body-text-color: #ffffff;
   --card-background-color: #161618;
+  --tag-color: #161618;
   --card-border-color: #262629
   --nav-background-color: #161618;
   --nav-border-bottom-color: #262629;
+  --nav-current-border-bottom-color: #BAE649;
+  --down-border-left-color: #eb3b5a;
+  --down-background-color: #FF3B30;
+  --up-border-left-color: #BAE649;
+  --tag-up-background-color:  #BAE649;
+  --tag-down-background-color: #FF3B30;
 }

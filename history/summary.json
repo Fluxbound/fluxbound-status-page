@@ -1,20 +1,20 @@
 [
   {
-    "name": "Aplicación",
+    "name": "Web",
     "url": "https://app.fluxbound.es",
     "icon": "https://icons.duckduckgo.com/ip3/app.fluxbound.es.ico",
-    "slug": "aplicacion",
+    "slug": "web",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 436,
-    "timeWeek": 436,
-    "timeMonth": 436,
-    "timeYear": 436,
+    "time": 590,
+    "timeDay": 590,
+    "timeWeek": 590,
+    "timeMonth": 590,
+    "timeYear": 590,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 427,
-    "timeWeek": 427,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "time": 448,
+    "timeDay": 448,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "VPN",
+    "url": "${VPN_IP}",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "vpn",
+    "status": "down",
+    "uptime": "5.73%",
+    "uptimeDay": "5.73%",
+    "uptimeWeek": "5.73%",
+    "uptimeMonth": "5.73%",
+    "uptimeYear": "5.73%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-08-21": 0
+    }
   }
 ]

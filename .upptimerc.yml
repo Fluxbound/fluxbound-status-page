@@ -16,6 +16,7 @@ sites:
 status-website:
   cname: status.fluxbound.es
   themeUrl: https://status.fluxbound.es/fluxbound.css
+  # TODO: Change this to https://status.fluxbound.es/assets/fluxbound.svg and check https://upptime.js.org/docs/configuration#custom-favicons
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Fluxbound
   navbar:

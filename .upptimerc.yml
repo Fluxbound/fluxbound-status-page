@@ -22,6 +22,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+# Translation
 i18n:
   activeIncidents: Incidentes Activos
   allSystemsOperational: Todos los sistemas están operativos

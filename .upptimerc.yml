@@ -13,6 +13,9 @@ status-website:
   cname: status.fluxbound.es
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Fluxbound
+  navbar:
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 i18n:
   activeIncidents: Incidentes Activos

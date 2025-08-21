@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 335,
-    "timeWeek": 335,
-    "timeMonth": 335,
-    "timeYear": 335,
+    "time": 331,
+    "timeDay": 331,
+    "timeWeek": 331,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://api.fluxbound.es",
     "icon": "https://icons.duckduckgo.com/ip3/api.fluxbound.es.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "6.82%",
-    "uptimeDay": "6.82%",
-    "uptimeWeek": "6.82%",
-    "uptimeMonth": "6.82%",
-    "uptimeYear": "6.82%",
-    "time": 402,
-    "timeDay": 402,
-    "timeWeek": 402,
-    "timeMonth": 402,
-    "timeYear": 402,
+    "status": "up",
+    "uptime": "1.45%",
+    "uptimeDay": "1.45%",
+    "uptimeWeek": "1.45%",
+    "uptimeMonth": "1.45%",
+    "uptimeYear": "1.45%",
+    "time": 449,
+    "timeDay": 449,
+    "timeWeek": 449,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {
-      "2025-08-21": 0
+      "2025-08-21": 5
     }
   }
 ]

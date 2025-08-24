@@ -4,14 +4,14 @@ repo: fluxbound-status-page
 sites:
   - name: Web
     url: https://app.fluxbound.es
-    icon: https://app.fluxbound.es/fluxbound.svg
+    icon: https://status.fluxbound.es/fluxbound-green.svg
   - name: API
     url: https://api.fluxbound.es
-    icon: https://fluxbound-static.s3.eu-south-2.amazonaws.com/fluxbound.svg
+    icon: https://status.fluxbound.es/fluxbound-white.svg
     expectedStatusCodes:
       - 404
   - name: VPN
-    icon: https://fluxbound-static.s3.eu-south-2.amazonaws.com/fluxbound.svg
+    icon: https://status.fluxbound.es/fluxbound-white.svg
     check: "tcp-ping"
     url: $VPN_IP
     port: $VPN_PORT
@@ -19,8 +19,8 @@ sites:
 status-website:
   cname: status.fluxbound.es
   themeUrl: https://status.fluxbound.es/fluxbound.css
-  # TODO: Change this to https://status.fluxbound.es/assets/fluxbound.svg and check https://upptime.js.org/docs/configuration#custom-favicons
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://status.fluxbound.es/fluxbound-green.svg
+  faviconSvg: https://status.fluxbound.es/fluxbound-green.svg
   name: Fluxbound
   navbar:
     - title: GitHub

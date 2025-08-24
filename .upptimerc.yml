@@ -4,11 +4,14 @@ repo: fluxbound-status-page
 sites:
   - name: Web
     url: https://app.fluxbound.es
+    icon: https://app.fluxbound.es/fluxbound.svg
   - name: API
     url: https://api.fluxbound.es
+    icon: https://fluxbound-static.s3.eu-south-2.amazonaws.com/fluxbound.svg
     expectedStatusCodes:
       - 404
   - name: VPN
+    icon: https://fluxbound-static.s3.eu-south-2.amazonaws.com/fluxbound.svg
     check: "tcp-ping"
     url: $VPN_IP
     port: $VPN_PORT

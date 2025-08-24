@@ -21,7 +21,7 @@ status-website:
   themeUrl: https://status.fluxbound.es/fluxbound.css
   logoUrl: https://status.fluxbound.es/fluxbound-green.svg
   faviconSvg: https://status.fluxbound.es/fluxbound-green.svg
-  name: Fluxbound
+  name: Fluxbound Status
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO

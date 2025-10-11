@@ -1,5 +1,23 @@
 [
   {
+    "name": "Landing",
+    "url": "https://fluxbound.es",
+    "icon": "https://status.fluxbound.es/fluxbound-green.svg",
+    "slug": "landing",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 108,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Web",
     "url": "https://app.fluxbound.es",
     "icon": "https://status.fluxbound.es/fluxbound-green.svg",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 355,
-    "timeWeek": 534,
-    "timeMonth": 500,
-    "timeYear": 569,
+    "time": 565,
+    "timeDay": 342,
+    "timeWeek": 508,
+    "timeMonth": 495,
+    "timeYear": 565,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 326,
-    "timeWeek": 489,
-    "timeMonth": 470,
-    "timeYear": 464,
+    "time": 463,
+    "timeDay": 334,
+    "timeWeek": 471,
+    "timeMonth": 466,
+    "timeYear": 463,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 100,
-    "timeWeek": 127,
-    "timeMonth": 127,
+    "timeDay": 102,
+    "timeWeek": 124,
+    "timeMonth": 126,
     "timeYear": 125,
     "dailyMinutesDown": {}
   }

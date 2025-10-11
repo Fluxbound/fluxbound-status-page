@@ -2,6 +2,9 @@ owner: Fluxbound
 repo: fluxbound-status-page
 
 sites:
+  - name: Landing
+    url: https://fluxbound.es
+    icon: https://status.fluxbound.es/fluxbound-green.svg
   - name: Web
     url: https://app.fluxbound.es
     icon: https://status.fluxbound.es/fluxbound-green.svg

@@ -40,18 +40,20 @@
     "url": "https://api.fluxbound.es",
     "icon": "https://status.fluxbound.es/fluxbound-white.svg",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 532,
-    "timeWeek": 496,
-    "timeMonth": 468,
-    "timeYear": 461,
-    "dailyMinutesDown": {}
+    "time": 457,
+    "timeDay": 298,
+    "timeWeek": 442,
+    "timeMonth": 456,
+    "timeYear": 457,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "VPN",

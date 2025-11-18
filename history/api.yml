@@ -1,7 +1,7 @@
 url: https://api.fluxbound.es
-status: up
-code: 404
-responseTime: 532
-lastUpdated: 2025-11-17T23:10:02.213Z
+status: down
+code: 500
+responseTime: 64
+lastUpdated: 2025-11-18T11:44:16.989Z
 startTime: 2025-08-21T18:37:53.672Z
 generator: Upptime <https://github.com/upptime/upptime>

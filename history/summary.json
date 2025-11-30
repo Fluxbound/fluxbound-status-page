@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 146,
-    "timeWeek": 152,
-    "timeMonth": 146,
-    "timeYear": 142,
+    "time": 143,
+    "timeDay": 169,
+    "timeWeek": 150,
+    "timeMonth": 148,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.91%",
-    "time": 516,
-    "timeDay": 523,
-    "timeWeek": 510,
-    "timeMonth": 451,
-    "timeYear": 516,
+    "time": 517,
+    "timeDay": 665,
+    "timeWeek": 529,
+    "timeMonth": 460,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2025-11-18": 125
     }
@@ -43,15 +43,15 @@
     "icon": "https://status.fluxbound.es/fluxbound-white.svg",
     "slug": "api",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 454,
-    "timeDay": 512,
-    "timeWeek": 467,
-    "timeMonth": 430,
+    "timeDay": 476,
+    "timeWeek": 458,
+    "timeMonth": 434,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2025-11-18": 151
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 162,
-    "timeWeek": 135,
-    "timeMonth": 130,
+    "timeDay": 141,
+    "timeWeek": 132,
+    "timeMonth": 131,
     "timeYear": 127,
     "dailyMinutesDown": {}
   }

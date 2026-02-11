@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 101,
-    "timeWeek": 145,
-    "timeMonth": 170,
-    "timeYear": 151,
+    "time": 152,
+    "timeDay": 222,
+    "timeWeek": 156,
+    "timeMonth": 174,
+    "timeYear": 152,
     "dailyMinutesDown": {}
   },
   {
@@ -23,21 +23,17 @@
     "icon": "https://status.fluxbound.es/fluxbound-green.svg",
     "slug": "web",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 522,
-    "timeDay": 331,
-    "timeWeek": 413,
+    "timeDay": 360,
+    "timeWeek": 406,
     "timeMonth": 459,
     "timeYear": 522,
-    "dailyMinutesDown": {
-      "2026-02-10": 50,
-      "2025-12-17": 23,
-      "2025-11-18": 125
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -45,21 +41,17 @@
     "icon": "https://status.fluxbound.es/fluxbound-white.svg",
     "slug": "api",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 479,
-    "timeDay": 322,
-    "timeWeek": 418,
-    "timeMonth": 457,
+    "timeDay": 379,
+    "timeWeek": 416,
+    "timeMonth": 459,
     "timeYear": 479,
-    "dailyMinutesDown": {
-      "2026-02-10": 50,
-      "2025-12-17": 21,
-      "2025-11-18": 151
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VPN",
@@ -73,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 100,
-    "timeWeek": 120,
-    "timeMonth": 128,
+    "timeDay": 136,
+    "timeWeek": 117,
+    "timeMonth": 129,
     "timeYear": 127,
     "dailyMinutesDown": {}
   }

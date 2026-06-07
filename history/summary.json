@@ -58,9 +58,9 @@
     "url": "$VPN_IP",
     "icon": "https://status.fluxbound.es/fluxbound-white.svg",
     "slug": "vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.57%",
+    "uptimeDay": "95.56%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
@@ -70,7 +70,8 @@
     "timeMonth": 123,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-06-06": 64
+      "2026-06-06": 64,
+      "2026-06-07": 0
     }
   }
 ]

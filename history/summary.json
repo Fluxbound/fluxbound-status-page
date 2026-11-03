@@ -59,18 +59,18 @@
     "icon": "https://status.fluxbound.es/fluxbound-white.svg",
     "slug": "vpn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "92.43%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.98%",
     "time": 127,
     "timeDay": 0,
     "timeWeek": 114,
     "timeMonth": 121,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-11-03": 0
+      "2026-11-03": 109
     }
   }
 ]
